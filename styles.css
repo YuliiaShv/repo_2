@@ -1,0 +1,19 @@
+body {
+ font-family: "Lato", sans-serif;
+} 
+#Test{
+    color: aqua;
+    font-size: large;
+}
+.colorty{
+    color: darkorchid;
+    font-size: 30px;
+}
+.h2{
+    color: blue;
+    font-size: 50px;
+}
+.menu {
+    display: flex;
+    gap: 40px;
+}
