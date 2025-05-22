@@ -1,19 +1,24 @@
 body {
  font-family: "Lato", sans-serif;
 } 
-#Test{
+#div_id{
     color: aqua;
-    font-size: large;
+    font-size: 30px;
 }
-.colorty{
+.colorty {
     color: darkorchid;
     font-size: 30px;
 }
-.h2{
-    color: blue;
-    font-size: 50px;
-}
+
 .menu {
     display: flex;
     gap: 40px;
+}
+
+.hr {
+    color: fuchsia;
+    border-width: 5px;
+    overflow: hidden;
+    margin-block-start: 5em;
+    border-block-end: 10em;
 }
